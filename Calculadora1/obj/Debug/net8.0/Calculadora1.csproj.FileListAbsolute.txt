@@ -1,0 +1,14 @@
+C:\Users\laboratorio\source\repos\Calculadora1\obj\Debug\net8.0\Calculadora1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\laboratorio\source\repos\Calculadora1\obj\Debug\net8.0\Calculadora1.AssemblyInfoInputs.cache
+C:\Users\laboratorio\source\repos\Calculadora1\obj\Debug\net8.0\Calculadora1.AssemblyInfo.cs
+C:\Users\laboratorio\source\repos\Calculadora1\obj\Debug\net8.0\Calculadora1.csproj.CoreCompileInputs.cache
+C:\Users\laboratorio\source\repos\Calculadora1\bin\Debug\net8.0\Calculadora1.exe
+C:\Users\laboratorio\source\repos\Calculadora1\bin\Debug\net8.0\Calculadora1.deps.json
+C:\Users\laboratorio\source\repos\Calculadora1\bin\Debug\net8.0\Calculadora1.runtimeconfig.json
+C:\Users\laboratorio\source\repos\Calculadora1\bin\Debug\net8.0\Calculadora1.dll
+C:\Users\laboratorio\source\repos\Calculadora1\bin\Debug\net8.0\Calculadora1.pdb
+C:\Users\laboratorio\source\repos\Calculadora1\obj\Debug\net8.0\Calculadora1.dll
+C:\Users\laboratorio\source\repos\Calculadora1\obj\Debug\net8.0\refint\Calculadora1.dll
+C:\Users\laboratorio\source\repos\Calculadora1\obj\Debug\net8.0\Calculadora1.pdb
+C:\Users\laboratorio\source\repos\Calculadora1\obj\Debug\net8.0\Calculadora1.genruntimeconfig.cache
+C:\Users\laboratorio\source\repos\Calculadora1\obj\Debug\net8.0\ref\Calculadora1.dll
